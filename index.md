@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Hello, I am Ke Chen
 
 You can use the [editor on GitHub](https://github.com/CalesChen/CalseChen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Software Engineer with 2 years of industry experience. I graduated from Duke University with a M.S. in Computer Engineering and graduated from Huazhong University of Sci & Tech with major in Physics and minor in Computer Science. I am interested in building scalable and reliable distributed system.
 
 ### Markdown
 
