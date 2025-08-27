@@ -2,8 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/CalesChen/CalseChen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-I am a Software Engineer with 2 years of industry experience. I graduated from Duke University with a M.S. in Computer Engineering and graduated from Huazhong University of Sci & Tech with major in Physics and minor in Computer Science. I am interested in building scalable and reliable distributed system.
-
+I am a Software Engineer with 3.5 years of industry experience. I graduated from Duke University with a M.S. in Computer Engineering and graduated from Huazhong University of Sci & Tech with major in Physics and minor in Computer Science. Currently, I am working in LinkedIn Pinot, an OLAP database. I am interested in building scalable and reliable distributed system for data infrastructure. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
